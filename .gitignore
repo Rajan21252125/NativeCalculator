@@ -36,3 +36,8 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+
+
+./eas.json
+./application-39cc1f13-f5d9-455e-80fc-d07702757ec5.apk
